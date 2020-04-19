@@ -6,6 +6,6 @@ following steps :-
 2. Please go to folder(problem/my-app) and run the below command in termial:-
  npm install 
 
-3. TO run the application please run the command:-
+3. To run the application please run the command:-
 npm start
 4. Please open the URL in browser:-  http://localhost:3000/
