@@ -15,7 +15,7 @@ class Dropdown extends React.Component {
             return Object.entries(this.props.selectProps.dropData).map(([key, value]) => {
               //  console.log(item);
                 return (
-                    <option value={key}>{value}</option>
+                    <option key={key} value={key}>{value}</option>
 
                 )
             })
