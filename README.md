@@ -9,3 +9,6 @@ Please folllow the following steps to run the application:-
 3. To run the application please run the command in termial:-
 npm start
 4. Please open the URL in browser:-  http://localhost:3000/
+
+![Screenshot (1)](https://user-images.githubusercontent.com/62737684/118840585-2b651b00-b8e5-11eb-925e-07905124ded6.png)
+
